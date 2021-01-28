@@ -1,0 +1,21 @@
+INSERT INTO FLIGHT(FLIGHT_NUMBER)
+VALUES
+('AS000'),
+('AS001'),
+('AS002'),
+('AS003'),
+('AS004'),
+('AS005'),
+('AS006'),
+('AS007'),
+('AS008'),
+('AS009')
+;
+
+INSERT INTO GATE(GATE_NUMBER, VERSION)
+VALUES
+('A1', 1),
+('A2', 1),
+('B1', 1),
+('B2', 1)
+;
